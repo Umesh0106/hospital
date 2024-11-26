@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.navdiv {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
+.navh1 span{
+    color: rgb(0, 123, 255);
+}
+
+.navh1 {
+    font-size: 25px;
+}
+
+.navul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 19px;
+}
+
+.navul a {
+    color: rgba(0, 0, 0, 0.707);
+}
+
+.navul .home {
+    color: rgba(0, 123, 255, 0.708);
+}
+
+.sec {
+    background-color: rgba(0, 251, 255, 0.079);
+    height: 280px;
+    padding: 60px 0 0 250px;
+}
+
+.life h3 {
+    color: rgb(5, 49, 97);
+}
+
+.life p {
+    color: rgb(0, 123, 255);
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.lifebtn {
+    padding: 20px;
+}
+
+.lifebtn button {
+    background-color: rgb(5, 49, 97);
+    padding: 15px 40px 15px 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.lifebtn a {
+    color: white;
+    font-size: 15px;
+}
+.meet .title{
+    color: rgb(0, 123, 255);
+    font-size: 35px;
+    text-align: center;
+    padding: 55px;
+}
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.int{
+    margin-left: 25px;
+}
+.name{
+    color: rgb(0, 123, 255);
+    font-size: 35px;
+    padding: 10px;
+}
+.int h3{
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.int p{
+    padding: 10px;
+    font-size: 20px;
+    font-family: serif;
+}
+.profile{
+    padding: 10px;
+}
+.profile button{
+    background-color: rgb(0, 123, 255);
+    padding: 15px 60px 15px 60px;
+    border-radius: 10px;
+    border: none;
+}
+.profile a{
+    color: white;
+    font-size: 15px;
+}
+.meet1{
+    padding: 30px;
+}
+.int1{
+    margin-right: 35px;
+}
+.int1 h3{
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.int1 p{
+    padding: 10px;
+    font-size: 20px;
+    font-family: serif;
+}
+.profile{
+    padding: 10px;
+}
+.meet2{
+    padding: 30px;
+}
